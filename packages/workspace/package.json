@@ -1,0 +1,12 @@
+{
+    "name": "@org/workspace",
+    "version": "1.0.0",
+    "private": "true",
+    "scripts": {
+        "build": "webpack"
+    },
+    "devDependencies": {
+        "webpack-cli": "^4.9.1",
+        "webpack": "^5.65.0"
+    }
+}
